@@ -1,2 +1,2 @@
 using HTML & css
-author Vyacheslav Belozerov (VitaC0de)
+author Vyacheslav Belozerov (VitaC0de).
